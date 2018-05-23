@@ -19,7 +19,7 @@ STEP 2: The IDE
 Once Processing launches you will see the IDE (Integrated Development Environment)
 window. It should look like this. It has a text area in the middle, a play and stop button at the
 top, and a terminal window at the bottom. For now you should only really care about the
-play/stop and the text window.
+play/stop and the text window.\
 ![Image 1](/Images/IntroProject0-1.PNG)
 
 STEP 3: Setup
@@ -31,7 +31,7 @@ code by typing the following into the text editor. The void setup()starts the se
 code, and will run whatever code is in between the curly brackets { }. In this case it is
 the size() function, which dictates the size of our program window in pixels. This
 window will be 200 pixels x 200 pixels. Your setup code will only run once at the
-beginning of your program and then the computer moves on to your draw() code.
+beginning of your program and then the computer moves on to your draw() code.\
 ![Image 2](/Images/IntroProject0-2.PNG)
 
 STEP 4: Syntax
@@ -46,7 +46,7 @@ reference tool. You can find it by highlighting a function like size and right
 clicking on it. You can then click on “Find in Reference” from the drop-down
 menu. You can also click here for the [reference page](https://processing.org/reference/) on the Processing website.
 This webpage is helpful because it gives you example code, proper syntax, and
-the parameters you need to give the function in order for it to work.
+the parameters you need to give the function in order for it to work.\
 ![Image 3](/Images/IntroProject0-3.PNG)
 
 STEP 6: Draw
@@ -55,14 +55,14 @@ times a second! This is where we usually put all of the code we use to create so
 visual. First, we are going to draw a line. We use the line()function as seen and we add
 four numbers. These numbers are the x and y coordinates for the ends of the line. (0,0) is the
 upper left hand corner of the window and (200,200) is the lower right hand corner of the
-window. For a great reference on the coordinate system for Processing, [click here](https://processing.org/tutorials/drawing/).
+window. For a great reference on the coordinate system for Processing, [click here](https://processing.org/tutorials/drawing/).\
 ![Image 4](/Images/IntroProject0-4.PNG)
 
 STEP 7: Play!
 Once your code window looks like this, hit the play button. What do you see?
 Your window should look something like below. A grey background with a line
 going from the upper left hand corner to the lower right hand corner.
-Congratulations on your first Processing Sketch!
+Congratulations on your first Processing Sketch!\
 ![Image 5](/Images/IntroProject0-5.PNG)
 
 STEP 8: Share your work!
