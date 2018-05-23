@@ -19,7 +19,7 @@ STEP 2: The IDE
 Once Processing launches you will see the IDE (Integrated Development Environment)
 window. It should look like this. It has a text area in the middle, a play and stop button at the
 top, and a terminal window at the bottom. For now you should only really care about the
-play/stop and the text window.\
+play/stop and the text window.\<img style="float: right;" src="IntroProject0-1.PNG">
 ![Image 1](/Images/IntroProject0-1.PNG)
 
 STEP 3: Setup
