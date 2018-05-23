@@ -66,7 +66,7 @@ Congratulations on your first Processing Sketch!\
 ![Image 5](/Images/IntroProject0-5.PNG)
 
 
-TAKING IT FURTHER
+TAKING IT FURTHER\
 ● Check out some examples of Processing [HERE](www.processing.org/exhibition/)\
 ● What other geometry could we draw using Processing? (Hint: Reference!)\
 ● Draw a second line going from the upper right corner to the lower left corner.\
