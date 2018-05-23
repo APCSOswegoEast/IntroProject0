@@ -65,18 +65,13 @@ going from the upper left hand corner to the lower right hand corner.
 Congratulations on your first Processing Sketch!\
 ![Image 5](/Images/IntroProject0-5.PNG)
 
-STEP 8: Share your work!
-If you would like to share your work (which you do), you can sign up at
- [openprocessing.org](https://openprocessing.org). Open Processing allows you to share your code and view the
-drawing online, and allows others to fork or borrow your code to manipulate and change it
-on their own while still keeping your sketch intact for others to check out.
-
 
 TAKING IT FURTHER
-● Check out some examples of Processing [HERE](www.processing.org/exhibition/)
-● What other geometry could we draw using Processing? (Hint: Reference!)
-● Draw a second line going from the upper right corner to the lower left corner.
-● Change the size of your window!
+● Check out some examples of Processing [HERE](www.processing.org/exhibition/)\
+● What other geometry could we draw using Processing? (Hint: Reference!)\
+● Draw a second line going from the upper right corner to the lower left corner.\
+● Change the size of your window!\
 
 
+STEP 8: Share your work!
 Submit the link to your program on Google Classroom! See the intro assignment for steps on how to create the program website. 
